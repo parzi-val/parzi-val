@@ -1,4 +1,4 @@
-![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-3dcc0220da.gif)
+![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-cff02e854f.gif)
 <h1 align="center">Hi 👋, I'm KR Bala</h1>
 <h3 align="center">Interested in AI/ML, Computer Vision, Desktop GUIs.</h3>
 
