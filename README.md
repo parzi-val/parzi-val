@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parzi-val&label=Profile%20views&color=0e75b6&style=flat" alt="parzi-val" /> </p>
 
-<p align="left"> <a href="https://twitter.com/krbala1229867" target="blank"><img src="https://img.shields.io/twitter/follow/krbala1229867?logo=twitter&style=for-the-badge" alt="krbala1229867" /></a> </p>
-
 - 🔭 I’m currently working on [Gesture Recognition - 3d model manipulations](https://github.com/parzi-val/Gesture-Recognitions)
 
-- 🌱 I’m currently learning **Kotlin,Django**
+- 🌱 I’m currently learning **Kotlin, Django**
 
 - 💬 Ask me about **Java, Python and its GUI frameworks**
 
