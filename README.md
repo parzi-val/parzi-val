@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/Y3fhFj7.gifv)
+![MasterHead](https://i.imgur.com/Y3fhFj7.gif)
 <h1 align="center">Hi 👋, I'm KR Bala</h1>
 <h3 align="center">Interested in AI/ML, Computer Vision, Desktop GUIs.</h3>
 
