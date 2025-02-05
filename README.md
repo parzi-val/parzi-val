@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Humanoids with Team Avatar (VIT)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **Backend frameworks, LLMs especially [gemini](https://ai.google.dev/gemini-api/docs), docker**
 
