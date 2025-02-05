@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 💬 Ask me about **Backend frameworks, LLMs especially [gemini](https://ai.google.dev/gemini-api/docs), docker**
+- 💬 Ask me about **Backend frameworks, LLMs (sdks and apis) especially [gemini](https://ai.google.dev/gemini-api/docs), docker**
 
 - 📫 How to reach me **krbala1511@gmail.com**
 
